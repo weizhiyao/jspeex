@@ -78,7 +78,7 @@ package org.xiph.speex;
 public class Bits
 {
   /** Default buffer size */
-  public static final int DEFAULT_BUFFER_SIZE = 1024;
+  public static final int DEFAULT_BUFFER_SIZE = 4350;
   
   /** "raw" data */
   private byte[] bytes;
